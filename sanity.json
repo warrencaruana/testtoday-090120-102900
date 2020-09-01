@@ -1,7 +1,7 @@
 {
     "root": true,
     "api": {
-        "projectId": "whno9apx",
+        "projectId": "opic67zl",
         "dataset": "production"
     },
     "project": {
@@ -14,7 +14,7 @@
             "title": "testtoday-090120-102900",
             "default": true,
             "api": {
-                "projectId": "whno9apx",
+                "projectId": "opic67zl",
                 "dataset": "production"
             }
         }
